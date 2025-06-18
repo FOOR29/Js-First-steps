@@ -1,4 +1,4 @@
-let numberOne = 10
+let numberOne = 2
 
 if (numberOne > 0) {
     console.log('El numero es positivo')
