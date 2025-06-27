@@ -11,9 +11,7 @@ const car = {
         this.model = newModel
         return`El model es actualizado a ${this.model}`
     }
-    
 }
-
 
 console.table(car);
 
